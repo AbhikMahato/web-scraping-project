@@ -1,0 +1,1252 @@
+[
+    {
+        "Title":"Breaking Bad",
+        "Year":2008,
+        "Rating":9.5
+    },
+    {
+        "Title":"Planet Earth II",
+        "Year":2016,
+        "Rating":9.4
+    },
+    {
+        "Title":"Planet Earth",
+        "Year":2006,
+        "Rating":9.4
+    },
+    {
+        "Title":"Band of Brothers",
+        "Year":2001,
+        "Rating":9.4
+    },
+    {
+        "Title":"Chernobyl",
+        "Year":2019,
+        "Rating":9.3
+    },
+    {
+        "Title":"The Wire",
+        "Year":2002,
+        "Rating":9.3
+    },
+    {
+        "Title":"Avatar: The Last Airbender",
+        "Year":2005,
+        "Rating":9.3
+    },
+    {
+        "Title":"The Sopranos",
+        "Year":1999,
+        "Rating":9.2
+    },
+    {
+        "Title":"Blue Planet II",
+        "Year":2017,
+        "Rating":9.3
+    },
+    {
+        "Title":"Cosmos: A Spacetime Odyssey",
+        "Year":2014,
+        "Rating":9.2
+    },
+    {
+        "Title":"Cosmos",
+        "Year":1980,
+        "Rating":9.3
+    },
+    {
+        "Title":"Our Planet",
+        "Year":2019,
+        "Rating":9.2
+    },
+    {
+        "Title":"Game of Thrones",
+        "Year":2011,
+        "Rating":9.2
+    },
+    {
+        "Title":"Bluey",
+        "Year":2018,
+        "Rating":9.3
+    },
+    {
+        "Title":"The World at War",
+        "Year":1973,
+        "Rating":9.2
+    },
+    {
+        "Title":"Fullmetal Alchemist: Brotherhood",
+        "Year":2009,
+        "Rating":9.1
+    },
+    {
+        "Title":"Attack on Titan",
+        "Year":2013,
+        "Rating":9.1
+    },
+    {
+        "Title":"Life",
+        "Year":2009,
+        "Rating":9.1
+    },
+    {
+        "Title":"The Last Dance",
+        "Year":2020,
+        "Rating":9.0
+    },
+    {
+        "Title":"The Twilight Zone",
+        "Year":1959,
+        "Rating":9.0
+    },
+    {
+        "Title":"The Vietnam War",
+        "Year":2017,
+        "Rating":9.1
+    },
+    {
+        "Title":"Rick and Morty",
+        "Year":2013,
+        "Rating":9.0
+    },
+    {
+        "Title":"Sherlock",
+        "Year":2010,
+        "Rating":9.0
+    },
+    {
+        "Title":"Batman: The Animated Series",
+        "Year":1992,
+        "Rating":9.0
+    },
+    {
+        "Title":"Better Call Saul",
+        "Year":2015,
+        "Rating":9.0
+    },
+    {
+        "Title":"Arcane",
+        "Year":2021,
+        "Rating":9.0
+    },
+    {
+        "Title":"The Office",
+        "Year":2005,
+        "Rating":9.0
+    },
+    {
+        "Title":"The Blue Planet",
+        "Year":2001,
+        "Rating":9.0
+    },
+    {
+        "Title":"Clarkson's Farm",
+        "Year":2021,
+        "Rating":9.0
+    },
+    {
+        "Title":"Scam 1992: The Harshad Mehta Story",
+        "Year":2020,
+        "Rating":9.2
+    },
+    {
+        "Title":"Dexter: Resurrection",
+        "Year":2025,
+        "Rating":9.0
+    },
+    {
+        "Title":"Hunter x Hunter",
+        "Year":2011,
+        "Rating":9.0
+    },
+    {
+        "Title":"Frozen Planet",
+        "Year":2011,
+        "Rating":9.0
+    },
+    {
+        "Title":"Human Planet",
+        "Year":2011,
+        "Rating":9.0
+    },
+    {
+        "Title":"Only Fools and Horses",
+        "Year":1981,
+        "Rating":9.0
+    },
+    {
+        "Title":"The Civil War",
+        "Year":1990,
+        "Rating":9.0
+    },
+    {
+        "Title":"Firefly",
+        "Year":2002,
+        "Rating":8.9
+    },
+    {
+        "Title":"As If",
+        "Year":2021,
+        "Rating":9.0
+    },
+    {
+        "Title":"Death Note",
+        "Year":2006,
+        "Rating":8.9
+    },
+    {
+        "Title":"Gravity Falls",
+        "Year":2012,
+        "Rating":8.9
+    },
+    {
+        "Title":"The Pitt",
+        "Year":2025,
+        "Rating":8.9
+    },
+    {
+        "Title":"Frieren: Beyond Journey's End",
+        "Year":2023,
+        "Rating":8.9
+    },
+    {
+        "Title":"Seinfeld",
+        "Year":1989,
+        "Rating":8.9
+    },
+    {
+        "Title":"Dekalog",
+        "Year":1989,
+        "Rating":8.9
+    },
+    {
+        "Title":"Taskmaster",
+        "Year":2015,
+        "Rating":9.0
+    },
+    {
+        "Title":"The Beatles: Get Back",
+        "Year":2021,
+        "Rating":8.9
+    },
+    {
+        "Title":"Cowboy Bebop",
+        "Year":1998,
+        "Rating":8.9
+    },
+    {
+        "Title":"Nathan for You",
+        "Year":2013,
+        "Rating":8.9
+    },
+    {
+        "Title":"True Detective",
+        "Year":2014,
+        "Rating":8.8
+    },
+    {
+        "Title":"Fargo",
+        "Year":2014,
+        "Rating":8.8
+    },
+    {
+        "Title":"Apocalypse: The Second World War",
+        "Year":2009,
+        "Rating":9.0
+    },
+    {
+        "Title":"Persona",
+        "Year":2018,
+        "Rating":8.9
+    },
+    {
+        "Title":"Africa",
+        "Year":2013,
+        "Rating":8.9
+    },
+    {
+        "Title":"One Piece",
+        "Year":1999,
+        "Rating":9.0
+    },
+    {
+        "Title":"When They See Us",
+        "Year":2019,
+        "Rating":8.8
+    },
+    {
+        "Title":"The West Wing",
+        "Year":1999,
+        "Rating":8.9
+    },
+    {
+        "Title":"Friends",
+        "Year":1994,
+        "Rating":8.9
+    },
+    {
+        "Title":"It's Always Sunny in Philadelphia",
+        "Year":2005,
+        "Rating":8.8
+    },
+    {
+        "Title":"Last Week Tonight with John Oliver",
+        "Year":2014,
+        "Rating":8.8
+    },
+    {
+        "Title":"TVF Pitchers",
+        "Year":2015,
+        "Rating":9.1
+    },
+    {
+        "Title":"Succession",
+        "Year":2018,
+        "Rating":8.8
+    },
+    {
+        "Title":"Bleach: Thousand-Year Blood War",
+        "Year":2022,
+        "Rating":9.0
+    },
+    {
+        "Title":"When Life Gives You Tangerines",
+        "Year":2025,
+        "Rating":9.1
+    },
+    {
+        "Title":"The Chosen",
+        "Year":2017,
+        "Rating":9.1
+    },
+    {
+        "Title":"Curb Your Enthusiasm",
+        "Year":2000,
+        "Rating":8.8
+    },
+    {
+        "Title":"Monty Python's Flying Circus",
+        "Year":1969,
+        "Rating":8.8
+    },
+    {
+        "Title":"Das Boot",
+        "Year":1985,
+        "Rating":8.8
+    },
+    {
+        "Title":"BoJack Horseman",
+        "Year":2014,
+        "Rating":8.8
+    },
+    {
+        "Title":"Panchayat",
+        "Year":2020,
+        "Rating":9.0
+    },
+    {
+        "Title":"Fawlty Towers",
+        "Year":1975,
+        "Rating":8.8
+    },
+    {
+        "Title":"Vinland Saga",
+        "Year":2019,
+        "Rating":8.8
+    },
+    {
+        "Title":"Dragon Ball Z",
+        "Year":1996,
+        "Rating":8.8
+    },
+    {
+        "Title":"Gullak",
+        "Year":2019,
+        "Rating":9.1
+    },
+    {
+        "Title":"Blackadder Goes Forth",
+        "Year":1989,
+        "Rating":8.8
+    },
+    {
+        "Title":"Leyla and Mecnun",
+        "Year":2011,
+        "Rating":9.0
+    },
+    {
+        "Title":"Dragon Ball Z",
+        "Year":1989,
+        "Rating":8.8
+    },
+    {
+        "Title":"Freaks and Geeks",
+        "Year":1999,
+        "Rating":8.8
+    },
+    {
+        "Title":"Chappelle's Show",
+        "Year":2003,
+        "Rating":8.8
+    },
+    {
+        "Title":"Pride and Prejudice",
+        "Year":1995,
+        "Rating":8.8
+    },
+    {
+        "Title":"Twin Peaks",
+        "Year":1990,
+        "Rating":8.7
+    },
+    {
+        "Title":"Narcos",
+        "Year":2015,
+        "Rating":8.7
+    },
+    {
+        "Title":"Reply 1988",
+        "Year":2015,
+        "Rating":9.0
+    },
+    {
+        "Title":"I, Claudius",
+        "Year":1976,
+        "Rating":8.8
+    },
+    {
+        "Title":"South Park",
+        "Year":1997,
+        "Rating":8.7
+    },
+    {
+        "Title":"Kota Factory",
+        "Year":2019,
+        "Rating":9.0
+    },
+    {
+        "Title":"Over the Garden Wall",
+        "Year":2014,
+        "Rating":8.7
+    },
+    {
+        "Title":"Berserk",
+        "Year":1997,
+        "Rating":8.7
+    },
+    {
+        "Title":"Ted Lasso",
+        "Year":2020,
+        "Rating":8.8
+    },
+    {
+        "Title":"Steins;Gate",
+        "Year":2011,
+        "Rating":8.8
+    },
+    {
+        "Title":"Black Mirror",
+        "Year":2011,
+        "Rating":8.7
+    },
+    {
+        "Title":"My Mister",
+        "Year":2018,
+        "Rating":9.0
+    },
+    {
+        "Title":"Peaky Blinders",
+        "Year":2013,
+        "Rating":8.7
+    },
+    {
+        "Title":"Six Feet Under",
+        "Year":2001,
+        "Rating":8.7
+    },
+    {
+        "Title":"Rome",
+        "Year":2005,
+        "Rating":8.7
+    },
+    {
+        "Title":"Oz",
+        "Year":1997,
+        "Rating":8.7
+    },
+    {
+        "Title":"Dark",
+        "Year":2017,
+        "Rating":8.7
+    },
+    {
+        "Title":"Heated Rivalry",
+        "Year":2025,
+        "Rating":8.9
+    },
+    {
+        "Title":"X-Men '97",
+        "Year":2024,
+        "Rating":8.7
+    },
+    {
+        "Title":"The Grand Tour",
+        "Year":2016,
+        "Rating":8.7
+    },
+    {
+        "Title":"Monster",
+        "Year":2004,
+        "Rating":8.7
+    },
+    {
+        "Title":"The Shield",
+        "Year":2002,
+        "Rating":8.7
+    },
+    {
+        "Title":"Downton Abbey",
+        "Year":2010,
+        "Rating":8.7
+    },
+    {
+        "Title":"Fleabag",
+        "Year":2016,
+        "Rating":8.7
+    },
+    {
+        "Title":"Naruto: Shippuden",
+        "Year":2007,
+        "Rating":8.7
+    },
+    {
+        "Title":"Battlestar Galactica",
+        "Year":2004,
+        "Rating":8.7
+    },
+    {
+        "Title":"Peep Show",
+        "Year":2003,
+        "Rating":8.7
+    },
+    {
+        "Title":"Star Trek: The Next Generation",
+        "Year":1987,
+        "Rating":8.7
+    },
+    {
+        "Title":"Mad Men",
+        "Year":2007,
+        "Rating":8.7
+    },
+    {
+        "Title":"Invincible",
+        "Year":2021,
+        "Rating":8.7
+    },
+    {
+        "Title":"Blue Eye Samurai",
+        "Year":2023,
+        "Rating":8.7
+    },
+    {
+        "Title":"Still Game",
+        "Year":2002,
+        "Rating":8.9
+    },
+    {
+        "Title":"The Simpsons",
+        "Year":1989,
+        "Rating":8.6
+    },
+    {
+        "Title":"House",
+        "Year":2004,
+        "Rating":8.7
+    },
+    {
+        "Title":"Justice League Unlimited",
+        "Year":2004,
+        "Rating":8.7
+    },
+    {
+        "Title":"Mahabharat",
+        "Year":1988,
+        "Rating":8.9
+    },
+    {
+        "Title":"Severance",
+        "Year":2022,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Adventures of Sherlock Holmes",
+        "Year":1984,
+        "Rating":8.7
+    },
+    {
+        "Title":"Line of Duty",
+        "Year":2012,
+        "Rating":8.7
+    },
+    {
+        "Title":"Arrested Development",
+        "Year":2003,
+        "Rating":8.6
+    },
+    {
+        "Title":"Top Gear",
+        "Year":2002,
+        "Rating":8.7
+    },
+    {
+        "Title":"Friday Night Lights",
+        "Year":2006,
+        "Rating":8.7
+    },
+    {
+        "Title":"The Marvelous Mrs. Maisel",
+        "Year":2017,
+        "Rating":8.6
+    },
+    {
+        "Title":"How to with John Wilson",
+        "Year":2020,
+        "Rating":8.7
+    },
+    {
+        "Title":"The Thick of It",
+        "Year":2005,
+        "Rating":8.7
+    },
+    {
+        "Title":"Code Geass",
+        "Year":2006,
+        "Rating":8.7
+    },
+    {
+        "Title":"This Is Us",
+        "Year":2016,
+        "Rating":8.7
+    },
+    {
+        "Title":"Father Ted",
+        "Year":1995,
+        "Rating":8.6
+    },
+    {
+        "Title":"Behzat \u00c7: An Ankara Detective Story",
+        "Year":2010,
+        "Rating":8.8
+    },
+    {
+        "Title":"Aspirants",
+        "Year":2021,
+        "Rating":9.1
+    },
+    {
+        "Title":"Adventure Time",
+        "Year":2010,
+        "Rating":8.6
+    },
+    {
+        "Title":"Ramayan",
+        "Year":1987,
+        "Rating":9.0
+    },
+    {
+        "Title":"The Boys",
+        "Year":2019,
+        "Rating":8.6
+    },
+    {
+        "Title":"Fighting Spirit",
+        "Year":2000,
+        "Rating":8.8
+    },
+    {
+        "Title":"Dexter",
+        "Year":2006,
+        "Rating":8.6
+    },
+    {
+        "Title":"1883",
+        "Year":2021,
+        "Rating":8.7
+    },
+    {
+        "Title":"Mr Inbetween",
+        "Year":2018,
+        "Rating":8.7
+    },
+    {
+        "Title":"The X-Files",
+        "Year":1993,
+        "Rating":8.6
+    },
+    {
+        "Title":"Parks and Recreation",
+        "Year":2009,
+        "Rating":8.6
+    },
+    {
+        "Title":"Sarabhai V\/S Sarabhai",
+        "Year":2004,
+        "Rating":8.8
+    },
+    {
+        "Title":"One Punch Man",
+        "Year":2015,
+        "Rating":8.6
+    },
+    {
+        "Title":"Atlanta",
+        "Year":2016,
+        "Rating":8.6
+    },
+    {
+        "Title":"Deadwood",
+        "Year":2004,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Crown",
+        "Year":2016,
+        "Rating":8.6
+    },
+    {
+        "Title":"House of Cards",
+        "Year":2013,
+        "Rating":8.6
+    },
+    {
+        "Title":"Poirot",
+        "Year":1989,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Mandalorian",
+        "Year":2019,
+        "Rating":8.6
+    },
+    {
+        "Title":"Daredevil",
+        "Year":2015,
+        "Rating":8.6
+    },
+    {
+        "Title":"It's a Sin",
+        "Year":2021,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Bridge",
+        "Year":2011,
+        "Rating":8.6
+    },
+    {
+        "Title":"Primal",
+        "Year":2019,
+        "Rating":8.6
+    },
+    {
+        "Title":"Mindhunter",
+        "Year":2017,
+        "Rating":8.6
+    },
+    {
+        "Title":"Lonesome Dove",
+        "Year":1989,
+        "Rating":8.7
+    },
+    {
+        "Title":"Mr. Bean",
+        "Year":1990,
+        "Rating":8.6
+    },
+    {
+        "Title":"Blackadder II",
+        "Year":1986,
+        "Rating":8.6
+    },
+    {
+        "Title":"Haikyu!!",
+        "Year":2014,
+        "Rating":8.7
+    },
+    {
+        "Title":"Sh\u014dgun",
+        "Year":2024,
+        "Rating":8.6
+    },
+    {
+        "Title":"Crash Landing on You",
+        "Year":2019,
+        "Rating":8.7
+    },
+    {
+        "Title":"The Offer",
+        "Year":2022,
+        "Rating":8.6
+    },
+    {
+        "Title":"Stranger Things",
+        "Year":2016,
+        "Rating":8.6
+    },
+    {
+        "Title":"El Chavo del Ocho",
+        "Year":1972,
+        "Rating":8.7
+    },
+    {
+        "Title":"The Bureau",
+        "Year":2015,
+        "Rating":8.7
+    },
+    {
+        "Title":"Pose",
+        "Year":2018,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Return of Sherlock Holmes",
+        "Year":1986,
+        "Rating":8.7
+    },
+    {
+        "Title":"Yes Minister",
+        "Year":1980,
+        "Rating":8.6
+    },
+    {
+        "Title":"Gomorrah",
+        "Year":2014,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Jinx: The Life and Deaths of Robert Durst",
+        "Year":2015,
+        "Rating":8.6
+    },
+    {
+        "Title":"Greatest Events of WWII in Colour",
+        "Year":2019,
+        "Rating":8.6
+    },
+    {
+        "Title":"Blackadder the Third",
+        "Year":1987,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Penguin",
+        "Year":2024,
+        "Rating":8.6
+    },
+    {
+        "Title":"Andor",
+        "Year":2022,
+        "Rating":8.6
+    },
+    {
+        "Title":"Anne with an E",
+        "Year":2017,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Newsroom",
+        "Year":2012,
+        "Rating":8.6
+    },
+    {
+        "Title":"Scavengers Reign",
+        "Year":2023,
+        "Rating":8.6
+    },
+    {
+        "Title":"Homicide: Life on the Street",
+        "Year":1993,
+        "Rating":8.7
+    },
+    {
+        "Title":"Boardwalk Empire",
+        "Year":2010,
+        "Rating":8.6
+    },
+    {
+        "Title":"Critical Role",
+        "Year":2015,
+        "Rating":9.0
+    },
+    {
+        "Title":"Archer",
+        "Year":2009,
+        "Rating":8.6
+    },
+    {
+        "Title":"Dopesick",
+        "Year":2021,
+        "Rating":8.6
+    },
+    {
+        "Title":"Mystery Science Theater 3000",
+        "Year":1988,
+        "Rating":8.6
+    },
+    {
+        "Title":"Yeh Meri Family",
+        "Year":2018,
+        "Rating":8.9
+    },
+    {
+        "Title":"Justified",
+        "Year":2010,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Bugs Bunny Show",
+        "Year":1960,
+        "Rating":8.6
+    },
+    {
+        "Title":"QI",
+        "Year":2003,
+        "Rating":8.6
+    },
+    {
+        "Title":"Demon Slayer: Kimetsu no Yaiba",
+        "Year":2019,
+        "Rating":8.6
+    },
+    {
+        "Title":"Young Justice",
+        "Year":2010,
+        "Rating":8.6
+    },
+    {
+        "Title":"Battlestar Galactica",
+        "Year":2003,
+        "Rating":8.5
+    },
+    {
+        "Title":"Dragon Ball",
+        "Year":1986,
+        "Rating":8.5
+    },
+    {
+        "Title":"Endeavour",
+        "Year":2012,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Venture Bros.",
+        "Year":2003,
+        "Rating":8.6
+    },
+    {
+        "Title":"Justice League",
+        "Year":2001,
+        "Rating":8.5
+    },
+    {
+        "Title":"What We Do in the Shadows",
+        "Year":2019,
+        "Rating":8.5
+    },
+    {
+        "Title":"Yes, Prime Minister",
+        "Year":1986,
+        "Rating":8.6
+    },
+    {
+        "Title":"Dragon Ball",
+        "Year":1995,
+        "Rating":8.5
+    },
+    {
+        "Title":"The Haunting of Hill House",
+        "Year":2018,
+        "Rating":8.5
+    },
+    {
+        "Title":"Black Sun",
+        "Year":2017,
+        "Rating":8.8
+    },
+    {
+        "Title":"Samurai Champloo",
+        "Year":2004,
+        "Rating":8.5
+    },
+    {
+        "Title":"Flight of the Conchords",
+        "Year":2007,
+        "Rating":8.5
+    },
+    {
+        "Title":"The IT Crowd",
+        "Year":2006,
+        "Rating":8.5
+    },
+    {
+        "Title":"Regular Show",
+        "Year":2010,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Family Man",
+        "Year":2019,
+        "Rating":8.7
+    },
+    {
+        "Title":"Rocket Boys",
+        "Year":2022,
+        "Rating":8.8
+    },
+    {
+        "Title":"Coupling",
+        "Year":2000,
+        "Rating":8.5
+    },
+    {
+        "Title":"Detectorists",
+        "Year":2014,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Queen's Gambit",
+        "Year":2020,
+        "Rating":8.5
+    },
+    {
+        "Title":"Mr. Robot",
+        "Year":2015,
+        "Rating":8.5
+    },
+    {
+        "Title":"Samurai Jack",
+        "Year":2001,
+        "Rating":8.5
+    },
+    {
+        "Title":"I'm Alan Partridge",
+        "Year":1997,
+        "Rating":8.6
+    },
+    {
+        "Title":"Happy Valley",
+        "Year":2014,
+        "Rating":8.5
+    },
+    {
+        "Title":"The Rehearsal",
+        "Year":2022,
+        "Rating":8.5
+    },
+    {
+        "Title":"Ezel",
+        "Year":2009,
+        "Rating":8.6
+    },
+    {
+        "Title":"Long Way Round",
+        "Year":2004,
+        "Rating":8.6
+    },
+    {
+        "Title":"Making a Murderer",
+        "Year":2015,
+        "Rating":8.5
+    },
+    {
+        "Title":"Derry Girls",
+        "Year":2018,
+        "Rating":8.5
+    },
+    {
+        "Title":"Mob Psycho 100",
+        "Year":2016,
+        "Rating":8.5
+    },
+    {
+        "Title":"Twin Peaks",
+        "Year":2017,
+        "Rating":8.5
+    },
+    {
+        "Title":"Spaced",
+        "Year":1999,
+        "Rating":8.5
+    },
+    {
+        "Title":"Impractical Jokers",
+        "Year":2011,
+        "Rating":8.5
+    },
+    {
+        "Title":"Sons of Anarchy",
+        "Year":2008,
+        "Rating":8.5
+    },
+    {
+        "Title":"Whose Line Is It Anyway?",
+        "Year":1998,
+        "Rating":8.5
+    },
+    {
+        "Title":"Alchemy of Souls",
+        "Year":2022,
+        "Rating":8.7
+    },
+    {
+        "Title":"All Creatures Great & Small",
+        "Year":2020,
+        "Rating":8.6
+    },
+    {
+        "Title":"Solo Leveling",
+        "Year":2024,
+        "Rating":8.5
+    },
+    {
+        "Title":"Mind Your Language",
+        "Year":1977,
+        "Rating":8.7
+    },
+    {
+        "Title":"Jujutsu Kaisen",
+        "Year":2020,
+        "Rating":8.5
+    },
+    {
+        "Title":"Louie",
+        "Year":2010,
+        "Rating":8.5
+    },
+    {
+        "Title":"Adventure Time: Fionna & Cake",
+        "Year":2023,
+        "Rating":8.7
+    },
+    {
+        "Title":"Yellowstone",
+        "Year":2018,
+        "Rating":8.6
+    },
+    {
+        "Title":"Neon Genesis Evangelion",
+        "Year":1995,
+        "Rating":8.5
+    },
+    {
+        "Title":"Through the Wormhole",
+        "Year":2010,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Eric Andre Show",
+        "Year":2012,
+        "Rating":8.5
+    },
+    {
+        "Title":"My Brilliant Friend",
+        "Year":2018,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Office",
+        "Year":2001,
+        "Rating":8.5
+    },
+    {
+        "Title":"Trailer Park Boys",
+        "Year":2001,
+        "Rating":8.5
+    },
+    {
+        "Title":"Schitt's Creek",
+        "Year":2015,
+        "Rating":8.5
+    },
+    {
+        "Title":"The Great British Baking Show",
+        "Year":2010,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Expanse",
+        "Year":2015,
+        "Rating":8.5
+    },
+    {
+        "Title":"Silicon Valley",
+        "Year":2014,
+        "Rating":8.5
+    },
+    {
+        "Title":"Rurouni Kenshin: Trust & Betrayal",
+        "Year":1999,
+        "Rating":8.6
+    },
+    {
+        "Title":"The Bear",
+        "Year":2022,
+        "Rating":8.5
+    },
+    {
+        "Title":"Gintama",
+        "Year":2005,
+        "Rating":8.7
+    },
+    {
+        "Title":"Brass Eye",
+        "Year":1997,
+        "Rating":8.6
+    },
+    {
+        "Title":"Takopi's Original Sin",
+        "Year":2025,
+        "Rating":8.7
+    },
+    {
+        "Title":"Avrupa Yakasi",
+        "Year":2004,
+        "Rating":8.6
+    },
+    {
+        "Title":"Fullmetal Alchemist",
+        "Year":2003,
+        "Rating":8.5
+    },
+    {
+        "Title":"Futurama",
+        "Year":1999,
+        "Rating":8.5
+    },
+    {
+        "Title":"The Boondocks",
+        "Year":2005,
+        "Rating":8.5
+    },
+    {
+        "Title":"Your Lie in April",
+        "Year":2014,
+        "Rating":8.5
+    },
+    {
+        "Title":"Hannibal",
+        "Year":2013,
+        "Rating":8.5
+    },
+    {
+        "Title":"Foyle's War",
+        "Year":2002,
+        "Rating":8.6
+    },
+    {
+        "Title":"Twinkling Watermelon",
+        "Year":2023,
+        "Rating":8.9
+    }
+]
